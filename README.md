@@ -66,12 +66,16 @@ Datové zdroje
 
 ### podklady
 - :earth_africa: [Natural Earth](http://www.naturalearthdata.com)
+- :earth_africa: [Global Data](https://globalmaps.github.io)
 - :european_castle: [GADM (Global Administrative Areas)](https://gadm.org/data.html)
 - :green_book: [DIVA-GIS](http://www.diva-gis.org/Data)
 - :blue_book: [geofabrik](http://download.geofabrik.de) : data z Open Street Map
 - :watch: [Časová pásma](http://efele.net/maps/tz/)
 
 ### EO
+- :artificial_satellite: [USGS Earth Explorer](https://earthexplorer.usgs.gov)
+- :artificial_satellite: [ESA Earth Observation Data](https://earth.esa.int/)
+- :artificial_satellite: [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home)
 - :artificial_satellite: [CEOS (Committee on EO Data)](http://ceos.org)
 
 
@@ -79,8 +83,7 @@ Datové zdroje
 - :blue_book: [Clio Infra](https://clio-infra.eu/#datasets) : Clio Infra has set up a number of interconnected databases containing worldwide data on social, economic, and institutional indicators for the past five centuries, with special attention to the past 200 years. These indicators allow research into long-term development of worldwide economic growth and inequality.
 - :blue_book: [Earth Works](https://earthworks.stanford.edu) : GIS knihova univerzity ve Stanfordu
 - :blue_book: [Our World in data - GitHub datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
-- :house: [SEDAC (Socioeconomic Data and Applications Center)](https://sedac.ciesin.columbia.edu)
-- :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
+- 
 
 ### světové organizace
 - :department_store: [World Bank Data](https://data.worldbank.org)
@@ -93,66 +96,57 @@ Datové zdroje
 - :moneybag: [WTO](https://timeseries.wto.org)
 - :euro: [IMF (International Monetary Fund)](https://www.imf.org/en/Data)
 - :electron: [IEA (International Energy Agency)](https://www.iea.org/data-and-statistics?country=WORLD&fuel=Energy%20supply&indicator=Total%20primary%20energy%20supply%20(TPES)%20by%20source)
-- [Databáze zahraničního obchodu OSN ](https://comtrade.un.org/db/)
-- [United Nations Data](http://data.un.org/Explorer.aspx)
-- [United Nations (Department of Economic and Social Affairs Population Dynamics))](https://population.un.org/wpp/Download/Standard/Population/)
-- [United Nations Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
-- [United Nations Environmental Programme](http://geodata.grid.unep.ch)
-- [United Nations Global Risk Data Platform](https://preview.grid.unep.ch/index.php)
-- [United Nations Commodity Trade Statistics Database](https://comtrade.un.org/db/)
-- [United Nations Refugee Agency](https://www.unhcr.org/figures-at-a-glance.html)
-- [United Nations Industrial Development Organization](https://www.unhcr.org/figures-at-a-glance.html)
-- [United Nations Office on Drugs and Crime](https://dataunodc.un.org)
-- [Open SDG (Sustainable Development Goals) Data Hub](https://unstats-undesa.opendata.arcgis.com)
+- :currency_exchange: [Databáze zahraničního obchodu OSN ](https://comtrade.un.org/db/)
+- :recycle: [Open SDG (Sustainable Development Goals) Data Hub](https://unstats-undesa.opendata.arcgis.com)
 - :panda_face: [IUCN Red List](https://www.iucnredlist.org/resources/spatial-data-download)
   - [IUCN Red List GIS Unit](https://www.iucnredlist.org/resources/spatialtoolsanddata) : je tam toolbox a EOO calculator
 - :elephant: [GBIF (Global Biodiversity Information Facility)](https://www.gbif.org/dataset/search) 
 - :whale2:[OBIS (Ocean Biogeographic Information System)](https://obis.org)
-- [UNESCO](http://data.uis.unesco.org)
+- :classical_building: [UNESCO](http://data.uis.unesco.org)
+- :earth_asia: [United Nations Data](http://data.un.org/Explorer.aspx)
+- :earth_asia: :white_heart: [United Nations (Department of Economic and Social Affairs Population Dynamics))](https://population.un.org/wpp/Download/Standard/Population/)
+- :earth_asia: :chart: [United Nations Economic Commission for Europe](https://w3.unece.org/PXWeb/en)
+- :earth_asia: :national_park: [United Nations Environmental Programme](http://geodata.grid.unep.ch)
+- :earth_asia: :cyclone: [United Nations Global Risk Data Platform](https://preview.grid.unep.ch/index.php)
+- :earth_asia: :dollar: [United Nations Commodity Trade Statistics Database](https://comtrade.un.org/db/)
+- :earth_asia: :blond_haired_woman: [United Nations Refugee Agency](https://www.unhcr.org/figures-at-a-glance.html)
+- :earth_asia: :factory: [United Nations Industrial Development Organization](https://www.unhcr.org/figures-at-a-glance.html)
+- :earth_asia: :test_tube: [United Nations Office on Drugs and Crime](https://dataunodc.un.org)
 
-### energie
-- [Energy Data](https://energydata.info/dataset)
-- [Global Coal Finance Tracker](https://endcoal.org/finance-tracker/)
-
-### Ostatní
-- [otevřená data USA](https://www.data.gov)
-- [US Census](https://www.census.gov/data.html)
-- [otevřená data UK](https://data.gov.uk)
-- [Healthdata](https://healthdata.gov/search/type/dataset)
-- [Humanitarian Data](https://data.humdata.org/dataset)
-- [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home)
-
-
-***
 
 
 ### fyzická geografie
-- [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
-- :droplet: [WRI Aqueduct](https://www.wri.org/aqueduct/data) : přístupná data na flood hazard, water stress projections, flood risk
+- :droplet: [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
+  - :droplet: [WRI Aqueduct](https://www.wri.org/aqueduct/data) : přístupná data na flood hazard, water stress projections, flood risk
 - :blue_book: [Resource Watch](https://resourcewatch.org/data/explore)
-- [MRI (Mountain Research Institute)](https://www.mountainresearchinitiative.org/resources-opportunities/datasets) : ****
-- [World Clim](https://www.worldclim.org/data/index.html) : 
-- [NSIDC (National Snow and Ice Data Center)](https://nsidc.org)
-- [USGS Earthquake Hazard Program](https://earthquake.usgs.gov)
-- [NOAA National Centers for Environmental Information](https://www.ngdc.noaa.gov/hazard/hazards.shtml)
-- [NOAA Global Monitory Laboratory](https://www.esrl.noaa.gov/gmd/dv/data/)
-- [NOAA Climate Data FTP](ftp://ftp.ncdc.noaa.gov/pub/data/gsod)
-- [NREL (National Renewable Energy Laboratory)](https://www.nrel.gov/hydrogen/data-tools.html)
-- [Global Climate Monitor](https://www.globalclimatemonitor.org/#)
-- [EDGAR (Emissions Database for Global Atmospheric Research)](https://edgar.jrc.ec.europa.eu)
-- [NASA Earth Data GES DISC](https://disc.gsfc.nasa.gov/datasets?page=1&subject=Air%20Quality)
-- [USGS Earth Explorer](https://earthexplorer.usgs.gov)
-- [ESA Earth Observation Data](https://earth.esa.int/)
-- [Climate Change Scenarios](https://gisclimatechange.ucar.edu)
-- [(GNOMO) Global Network of Mountain Observatories](http://gnomo.ucnrs.org)
+- :mountain_snow: [MRI (Mountain Research Institute)](https://www.mountainresearchinitiative.org/resources-opportunities/datasets) : ****
+- :cloud: [World Clim](https://www.worldclim.org/data/index.html)  
+- :snowflake: [NSIDC (National Snow and Ice Data Center)](https://nsidc.org)
+- :volcano: [USGS Earthquake Hazard Program](https://earthquake.usgs.gov)
+- :mountain: [NOAA National Centers for Environmental Information](https://www.ngdc.noaa.gov/hazard/hazards.shtml)
+- :globe_with_meridians: [NOAA Global Monitory Laboratory](https://www.esrl.noaa.gov/gmd/dv/data/)
+- :cloud: [NOAA Climate Data FTP](ftp://ftp.ncdc.noaa.gov/pub/data/gsod)
+- :recycle: [NREL (National Renewable Energy Laboratory)](https://www.nrel.gov/hydrogen/data-tools.html)
+- :globe_with_meridians: [Global Climate Monitor](https://www.globalclimatemonitor.org/#)
+- :cloud_with_lightning_and_rain: [EDGAR (Emissions Database for Global Atmospheric Research)](https://edgar.jrc.ec.europa.eu)
+- :globe_with_meridians: [NASA Earth Data GES DISC](https://disc.gsfc.nasa.gov/datasets?page=1&subject=Air%20Quality)
+- :sun_with_face: [Climate Change Scenarios](https://gisclimatechange.ucar.edu) : scénáře, které používá i IPCC ! 
+- :mountain_snow: [(GNOMO) Global Network of Mountain Observatories](http://gnomo.ucnrs.org)
+- :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 
 
-### ostatni
-- [United States Environmental Protection Agency](https://search.epa.gov/epasearch/)
-- [Armed Conflict Locations](https://acleddata.com/data/realtime-data)
-- [UCDP (Uppsala Conflict Data Program), Department of Peace and Conflict Research](https://ucdp.uu.se)
-- [otevřená data UK](https://data.gov.uk)
+### humánní geografie
+- :boom: [Armed Conflict Locations](https://acleddata.com/data/realtime-data)
+-  :boom: [UCDP (Uppsala Conflict Data Program), Department of Peace and Conflict Research](https://ucdp.uu.se)
+-  :house: [SEDAC (Socioeconomic Data and Applications Center)](https://sedac.ciesin.columbia.edu)
+-  :heartpulse: [Humanitarian Data](https://data.humdata.org/dataset)
+
+### energie
+- :electron: [Energy Data](https://energydata.info/dataset)
+- :electron: [Global Coal Finance Tracker](https://endcoal.org/finance-tracker/)
 
 
+***
+ 
 # vesmír
 - :milky_way: [NASA CNEOS](https://cneos.jpl.nasa.gov/sentry/) : studium blízkých objektů
