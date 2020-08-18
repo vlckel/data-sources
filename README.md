@@ -133,6 +133,8 @@ Datové zdroje
 - :sun_with_face: [Climate Change Scenarios](https://gisclimatechange.ucar.edu) : scénáře, které používá i IPCC ! 
 - :mountain_snow: [(GNOMO) Global Network of Mountain Observatories](http://gnomo.ucnrs.org)
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
+- :droplet: [World River Database](http://gaia.geosci.unc.edu/rivers/)
+- :droplet: [IHP WINS](http://ihp-wins.unesco.org)
 
 
 ### humánní geografie
