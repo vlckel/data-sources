@@ -131,10 +131,12 @@ Datové zdroje
 - :cloud_with_lightning_and_rain: [EDGAR (Emissions Database for Global Atmospheric Research)](https://edgar.jrc.ec.europa.eu)
 - :globe_with_meridians: [NASA Earth Data GES DISC](https://disc.gsfc.nasa.gov/datasets?page=1&subject=Air%20Quality)
 - :sun_with_face: [Climate Change Scenarios](https://gisclimatechange.ucar.edu) : scénáře, které používá i IPCC ! 
+- :sun_with_face: [United States Environmental Protection Agency](https://www.epa.gov)
 - :mountain_snow: [(GNOMO) Global Network of Mountain Observatories](http://gnomo.ucnrs.org)
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 - :droplet: [World River Database](http://gaia.geosci.unc.edu/rivers/)
 - :droplet: [IHP WINS](http://ihp-wins.unesco.org)
+
 
 
 ### humánní geografie
@@ -142,6 +144,8 @@ Datové zdroje
 -  :boom: [UCDP (Uppsala Conflict Data Program), Department of Peace and Conflict Research](https://ucdp.uu.se)
 -  :house: [SEDAC (Socioeconomic Data and Applications Center)](https://sedac.ciesin.columbia.edu)
 -  :heartpulse: [Humanitarian Data](https://data.humdata.org/dataset)
+-  :bus: [US Transportation Open Data](http://osav-usdot.opendata.arcgis.com)
+-  :house: [Open Data New York](http://gis.ny.gov)
 
 ### energie
 - :electron: [Energy Data](https://energydata.info/dataset)
