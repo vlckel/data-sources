@@ -55,6 +55,8 @@ Datové zdroje
 - :satellite: [Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/search?type=dataset)
 - :satellite: [Copernicus Global Land Services](https://land.copernicus.eu/global/access) : zařídit přístup přes FTP, je tam Corine Land Cover
 - [ECMWF (European Centre for Medium-Range Weather Forecasts)](https://www.ecmwf.int/en/forecasts/datasets)
+- :uk: [Oil and Gas Authority Open Data](https://data-ogauthority.opendata.arcgis.com)
+- 
 
 ***
 
@@ -83,7 +85,7 @@ Datové zdroje
 - :blue_book: [Clio Infra](https://clio-infra.eu/#datasets) : Clio Infra has set up a number of interconnected databases containing worldwide data on social, economic, and institutional indicators for the past five centuries, with special attention to the past 200 years. These indicators allow research into long-term development of worldwide economic growth and inequality.
 - :blue_book: [Earth Works](https://earthworks.stanford.edu) : GIS knihova univerzity ve Stanfordu
 - :blue_book: [Our World in data - GitHub datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
-- 
+- :orange_book: [Planet OS Datahub](https://data.planetos.com/datasets?state=eyJrZXl3b3JkIjoiIiwicGFnZSI6MH0)
 
 ### světové organizace
 - :department_store: [World Bank Data](https://data.worldbank.org)
@@ -136,6 +138,10 @@ Datové zdroje
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 - :droplet: [World River Database](http://gaia.geosci.unc.edu/rivers/)
 - :droplet: [IHP WINS](http://ihp-wins.unesco.org)
+- :tornado:  [Actuaries Climate Index](https://actuariesclimateindex.org/data/)
+- :fish:  [British Oceanographic Data Service (BODS)](https://www.bodc.ac.uk/data/bodc_database/nodb/)
+- :flags: [Sustainable Development Goals](https://unstats-undesa.opendata.arcgis.com/search?groupIds=4452219ecc1c4573a4384b6b05a9b5b5) : data k Pařížské dohodě
+- :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 
 
 
@@ -150,6 +156,9 @@ Datové zdroje
 ### energie
 - :electron: [Energy Data](https://energydata.info/dataset)
 - :electron: [Global Coal Finance Tracker](https://endcoal.org/finance-tracker/)
+
+ ### ostatní
+ - :earth_africa: [Open data Africa](https://dataportal.opendataforafrica.org)
 
 
 ***
