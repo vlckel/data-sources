@@ -143,6 +143,7 @@ Datové zdroje
 - :flags: [Sustainable Development Goals](https://unstats-undesa.opendata.arcgis.com/search?groupIds=4452219ecc1c4573a4384b6b05a9b5b5) : data k Pařížské dohodě
 - :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 - :herbal: [Global Land Analysis & Discovery group](https://glad.umd.edu) : causes and impacts of global land surface change
+- :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
 
 
 
