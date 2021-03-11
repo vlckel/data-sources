@@ -144,6 +144,7 @@ Datové zdroje
 - :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 - :herbal: [Global Land Analysis & Discovery group](https://glad.umd.edu) : causes and impacts of global land surface change
 - :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
+- :tornado: [Carbon Brief Attribution Database](https://docs.google.com/spreadsheets/d/1GvM0VwgdQeWASkFeGwtn24y-QYVVR2Po2cC8CbJUzhM/edit#gid=445477573) : Climate Event Attribution
 
 
 
