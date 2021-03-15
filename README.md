@@ -115,11 +115,23 @@ Datové zdroje
 - :earth_asia: :factory: [United Nations Industrial Development Organization](https://www.unhcr.org/figures-at-a-glance.html)
 - :earth_asia: :test_tube: [United Nations Office on Drugs and Crime](https://dataunodc.un.org)
 
+### změna klimatu
+- :globe_with_meridians: [Global Climate Monitor](https://www.globalclimatemonitor.org/#)
+- :cloud_with_lightning_and_rain: [EDGAR (Emissions Database for Global Atmospheric Research)](https://edgar.jrc.ec.europa.eu)
+- :sun_with_face: [Climate Change Scenarios](https://gisclimatechange.ucar.edu) : scénáře, které používá i IPCC ! 
+- :tornado:  [Actuaries Climate Index](https://actuariesclimateindex.org/data/)
+- :flags: [Sustainable Development Goals](https://unstats-undesa.opendata.arcgis.com/search?groupIds=4452219ecc1c4573a4384b6b05a9b5b5) : data k Pařížské dohodě
+- :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
+- :tornado: [Carbon Brief Attribution Database](https://docs.google.com/spreadsheets/d/1GvM0VwgdQeWASkFeGwtn24y-QYVVR2Po2cC8CbJUzhM/edit#gid=445477573) : Climate Event Attribution
 
+### životní prostředí / biodiverzita
+- :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
+- :fish: [Natural History Museum Data Portal](https://data.nhm.ac.uk)
+- 
 
 ### fyzická geografie
 - :droplet: [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
-  - :droplet: [WRI Aqueduct](https://www.wri.org/aqueduct/data) : přístupná data na flood hazard, water stress projections, flood risk
+- :droplet: [WRI Aqueduct](https://www.wri.org/aqueduct/data) : přístupná data na flood hazard, water stress projections, flood risk
 - :blue_book: [Resource Watch](https://resourcewatch.org/data/explore)
 - :mountain_snow: [MRI (Mountain Research Institute)](https://www.mountainresearchinitiative.org/resources-opportunities/datasets) : ****
 - :cloud: [World Clim](https://www.worldclim.org/data/index.html)  
@@ -128,23 +140,14 @@ Datové zdroje
 - :mountain: [NOAA National Centers for Environmental Information](https://www.ngdc.noaa.gov/hazard/hazards.shtml)
 - :globe_with_meridians: [NOAA Global Monitory Laboratory](https://www.esrl.noaa.gov/gmd/dv/data/)
 - :cloud: [NOAA Climate Data FTP](ftp://ftp.ncdc.noaa.gov/pub/data/gsod)
-- :recycle: [NREL (National Renewable Energy Laboratory)](https://www.nrel.gov/hydrogen/data-tools.html)
-- :globe_with_meridians: [Global Climate Monitor](https://www.globalclimatemonitor.org/#)
-- :cloud_with_lightning_and_rain: [EDGAR (Emissions Database for Global Atmospheric Research)](https://edgar.jrc.ec.europa.eu)
 - :globe_with_meridians: [NASA Earth Data GES DISC](https://disc.gsfc.nasa.gov/datasets?page=1&subject=Air%20Quality)
-- :sun_with_face: [Climate Change Scenarios](https://gisclimatechange.ucar.edu) : scénáře, které používá i IPCC ! 
 - :sun_with_face: [United States Environmental Protection Agency](https://www.epa.gov)
 - :mountain_snow: [(GNOMO) Global Network of Mountain Observatories](http://gnomo.ucnrs.org)
-- :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 - :droplet: [World River Database](http://gaia.geosci.unc.edu/rivers/)
 - :droplet: [IHP WINS](http://ihp-wins.unesco.org)
-- :tornado:  [Actuaries Climate Index](https://actuariesclimateindex.org/data/)
 - :fish:  [British Oceanographic Data Service (BODS)](https://www.bodc.ac.uk/data/bodc_database/nodb/)
-- :flags: [Sustainable Development Goals](https://unstats-undesa.opendata.arcgis.com/search?groupIds=4452219ecc1c4573a4384b6b05a9b5b5) : data k Pařížské dohodě
 - :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 - :herbal: [Global Land Analysis & Discovery group](https://glad.umd.edu) : causes and impacts of global land surface change
-- :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
-- :tornado: [Carbon Brief Attribution Database](https://docs.google.com/spreadsheets/d/1GvM0VwgdQeWASkFeGwtn24y-QYVVR2Po2cC8CbJUzhM/edit#gid=445477573) : Climate Event Attribution
 
 
 
@@ -159,6 +162,7 @@ Datové zdroje
 ### energie
 - :electron: [Energy Data](https://energydata.info/dataset)
 - :electron: [Global Coal Finance Tracker](https://endcoal.org/finance-tracker/)
+- :recycle: [NREL (National Renewable Energy Laboratory)](https://www.nrel.gov/hydrogen/data-tools.html)
 
  ### ostatní
  - :earth_africa: [Open data Africa](https://dataportal.opendataforafrica.org)
