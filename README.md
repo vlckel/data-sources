@@ -35,6 +35,7 @@ Datové zdroje
 - :sunny: [Intersucho](https://www.intersucho.cz)
 - :sunny: [Klimatická změna](https://www.klimatickazmena.cz/cs/)
 - :fallen_leaf: [Informační Systém Statistiky a Reportingu (ISSaR) -  stav a vývoj životního prostředí v České republice.](https://issar.cenia.cz)
+- :bug: [Mapa ploch s rizikem šíření kůrovců](https://www.kurovcovamapa.cz)
 
 ***
 
@@ -123,6 +124,7 @@ Datové zdroje
 - :flags: [Sustainable Development Goals](https://unstats-undesa.opendata.arcgis.com/search?groupIds=4452219ecc1c4573a4384b6b05a9b5b5) : data k Pařížské dohodě
 - :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
 - :tornado: [Carbon Brief Attribution Database](https://docs.google.com/spreadsheets/d/1GvM0VwgdQeWASkFeGwtn24y-QYVVR2Po2cC8CbJUzhM/edit#gid=445477573) : Climate Event Attribution
+- :sun_with_face: [Global Forest Change 2000–2019](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.7.html) : scénáře, které používá i IPCC ! 
 
 ### životní prostředí / biodiverzita
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
