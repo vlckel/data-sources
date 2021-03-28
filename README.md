@@ -37,6 +37,9 @@ Datové zdroje
 - :fallen_leaf: [Informační Systém Statistiky a Reportingu (ISSaR) -  stav a vývoj životního prostředí v České republice.](https://issar.cenia.cz)
 - :bug: [Mapa ploch s rizikem šíření kůrovců](https://www.kurovcovamapa.cz)
 
+### mapové aplikace jednotlivých institucí
+- [ČGS (Česká geologická služba)](http://www.geology.cz/extranet/mapy/mapy-online/mapove-aplikace) : 
+
 ***
 
 ## **Evropa**
@@ -129,7 +132,7 @@ Datové zdroje
 ### životní prostředí / biodiverzita
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 - :fish: [Natural History Museum Data Portal](https://data.nhm.ac.uk)
-- 
+- :drop: [https://data.unep-wcmc.org](Ocean data viewer)
 
 ### fyzická geografie
 - :droplet: [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
