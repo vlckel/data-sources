@@ -138,7 +138,7 @@ Datové zdroje
 - :droplet: [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
 - :droplet: [WRI Aqueduct](https://www.wri.org/aqueduct/data) : přístupná data na flood hazard, water stress projections, flood risk
 - :blue_book: [Resource Watch](https://resourcewatch.org/data/explore)
-- :mountain_snow: [MRI (Mountain Research Institute)](https://www.mountainresearchinitiative.org/resources-opportunities/datasets) : ****
+- :mountain_snow: [MRI (Mountain Research Institute)](https://www.mountainresearchinitiative.org/resources-opportunities/datasets)
 - :cloud: [World Clim](https://www.worldclim.org/data/index.html)  
 - :snowflake: [NSIDC (National Snow and Ice Data Center)](https://nsidc.org)
 - :volcano: [USGS Earthquake Hazard Program](https://earthquake.usgs.gov)
@@ -153,6 +153,7 @@ Datové zdroje
 - :fish:  [British Oceanographic Data Service (BODS)](https://www.bodc.ac.uk/data/bodc_database/nodb/)
 - :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 - :herbal: [Global Land Analysis & Discovery group](https://glad.umd.edu) : causes and impacts of global land surface change
+- :leaf: [GLobal forest watch](https://www.globalforestwatch.org/)
 
 
 
