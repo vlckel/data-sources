@@ -128,11 +128,22 @@ Datové zdroje
 - :factory: [Global Infrastructure Emissions Database (GID)](http://gidmodel.org) 
 - :tornado: [Carbon Brief Attribution Database](https://docs.google.com/spreadsheets/d/1GvM0VwgdQeWASkFeGwtn24y-QYVVR2Po2cC8CbJUzhM/edit#gid=445477573) : Climate Event Attribution
 - :sun_with_face: [Global Forest Change 2000–2019](http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.7.html) : scénáře, které používá i IPCC ! 
+- [CEOS International Directory Network (IDN)](https://idn.ceos.org): The CEOS IDN is an international effort developed to assist researchers in locating information on available datasets. The directory is sponsored as a service to the Earth science community.
+- [CCCA Data Server](https://data.ccca.ac.at): asi jenom pro Rakousko
 
 ### životní prostředí / biodiverzita
 - :house_with_garden: [HYDE (History Database of the Global Environment)](https://themasites.pbl.nl/tridion/en/themasites/hyde/index.html)
 - :fish: [Natural History Museum Data Portal](https://data.nhm.ac.uk)
 - :drop: [https://data.unep-wcmc.org](Ocean data viewer)
+- :mountain_snow: [GRID-Geneva UNEP](https://unepgrid.ch/en/platforms)
+  - [GRID Code catalogue](https://datacore-gn.unepgrid.ch): This platform includes a selected set of basic fundamental geospatial data held by Grid-Geneva, and collected from external sources. GRID-Geneva is part of the Science Division of the UN Environment's global group of environmental information centres, known as the Global Resource Information Database (GRID) network.
+  - [World Environment Situation Room](https://wesr.unep.org/): UNEP’s dynamic on-line platform for sharing contextualized data and knowledge to keep the environment under review
+  - [MapX](https://www.mapx.org):  online platform for managing geospatial data on natural resources
+  - [Ramsar](https://rsis.ramsar.org): Ramsar Sites Information Service
+  - [Global Environmental Goals (GEGs) Live Tracker](https://gegslive.unepgrid.ch)
+  - [LIVE Environmental Monitoring](https://graphs.unepgrid.ch)
+- 
+
 
 ### fyzická geografie
 - :droplet: [WRI (World Resource Institute)](https://datasets.wri.org) : *tohle více prozkoumat, bude to super zdroj
@@ -154,7 +165,9 @@ Datové zdroje
 - :dolphin: [Databases Related to Marine and Wind Energy and the Environment](https://tethys.pnnl.gov/databases)
 - :herbal: [Global Land Analysis & Discovery group](https://glad.umd.edu) : causes and impacts of global land surface change
 - :leaf: [GLobal forest watch](https://www.globalforestwatch.org/)
-
+- [Copernicus Atmosphere Monitoring Service](https://ads.atmosphere.copernicus.eu/#!/home): 
+- [Copernicus Global Land Service](https://land.copernicus.vgt.vito.be/PDF/portal/Application.html#Home)
+- [Copernicus Marine Service](https://marine.copernicus.eu)
 
 
 ### humánní geografie
@@ -172,6 +185,15 @@ Datové zdroje
 
  ### ostatní
  - :earth_africa: [Open data Africa](https://dataportal.opendataforafrica.org)
+ - [Environmental Research Data - SWitzerland](https://www.envidat.ch/#/)
+
+***
+
+## **Arctic & Antarctica **
+- [Arctic and Antarctic Data (ADS)](https://ads.nipr.ac.jp)
+- [Conservation of Arctic Flora and Fauna (CAFF)](https://www.abds.is)
+- [Arctic GBIF](https://www.gbif.org/publisher/44862593-2fdd-4491-ab79-b500b8272aac)
+- [Arctic OBIS](https://obis.org/node/da50007b-7871-46cf-8530-441b5836d2c1)
 
 
 ***
