@@ -1,10 +1,10 @@
-# DATOVÉ ZDROJE
+# DATA SOURCES
 Datové zdroje
 
 
-## **Česká republika**
+## **Czechia**
 
-### otevřená data
+### open data
 - :czech_republic: [Národní katalog otevřených dat](https://data.gov.cz/datové-sady)
 - :czech_republic: [otevřená data Praha](http://opendata.praha.eu)
 - :czech_republic: [otevřená data Brno](https://data.brno.cz/data/)
@@ -14,7 +14,7 @@ Datové zdroje
 - :czech_republic: [otevřená data Ministerstva pro místní rozvoj](http://data.mmr.cz/dataset)
 - :czech_republic: [otevřená data AOPK ČR](https://data.nature.cz)
 
-### statistické, administrativní
+### administrative, statistics
 - :blue_book: [Český Statistický Úřad](https://www.czso.cz)
 - :office: [Administrativní členění a socioekonomické údaje - ArcČR](https://www.arcdata.cz/produkty/geograficka-data/arccr-500) - [geodatabáze]
 - :scroll: [Historická data GIS ](http://www.historickygis.cz/cs/uvod-historicky-gis) - Historický populační vývoj a vývoj národnostní, jazykové, demografické a sociální struktury obyvatelstva v období 1921-2011
